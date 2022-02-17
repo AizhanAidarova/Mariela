@@ -209,3 +209,35 @@ nav, ul, a {
 .part4-img {
     margin-top: 70px;
 }
+.part6{
+    display: flex;
+    cursor: pointer;
+    background: none;
+    padding: 70px 10px 40px;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+.pilow{
+    display: flex;
+    margin-top: 55px;
+}
+.pilow1{
+    margin-left: 112px;
+    margin-right: 26px;
+}
+.pilow3{
+    margin-left: 26px;
+}
+.pilow-text{
+    font-size: 24px;
+    color: #5F4D5D;
+    text-align: center;
+    margin-top: 9px;
+}
+.dollar{
+    font-size: 16px;
+    color: #B0B0B0;
+    text-align: center;
+    margin-top: -13px;
+}
