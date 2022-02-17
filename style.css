@@ -163,10 +163,15 @@ nav, ul, a {
     border-bottom: 1px solid #D7B7D4;
     cursor: pointer;
     background: none;
-    padding: 40px 10px 40px;
+    padding: 40px 130px 40px;
     font-size: 14px;
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
+}
+.part5-text {
+    width: 480px;
+    height: 120px;
+    margin:60px 77px 138px 100px;
 }
 .btn3 {
     border:1px solid #B99BB6;
@@ -180,4 +185,27 @@ nav, ul, a {
     font-family: 'Roboto', sans-serif;
     font-weight: 400;
     cursor: pointer;
+}
+.part4{
+    display: flex;
+    border-bottom: 1px solid #D7B7D4;
+    cursor: pointer;
+    background: none;
+    padding: 70px 10px 40px;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+.part4-text {
+    width: 480px;
+    height: 120px;
+    margin:90px 140px 138px 100px;
+}
+.part4-text4 {
+    text-align: left;
+    font-size: 24px;
+    line-height: 30px;
+}
+.part4-img {
+    margin-top: 70px;
 }
